@@ -420,7 +420,7 @@ h1, h2, h3, h4, h5, h6 {
 # Sections General
 --------------------------------------------------------------*/
 section {
-  padding: 60px 0;
+  padding: 5px 0;
   overflow: hidden;
 }
 
@@ -429,14 +429,14 @@ section {
 }
 
 .section-title {
-  padding-bottom: 40px;
+  padding-bottom: 5px;
   text-align: center;
 }
 
 .section-title h2 {
   font-size: 36px;
   font-weight: 300;
-  margin-bottom: 20px;
+  margin-bottom: 5px;
   padding-bottom: 0;
   color: #21413c;
 }
